@@ -101,10 +101,10 @@ I'm open to learning opportunities, internships, and conversations with fellow d
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [Add your LinkedIn URL here](#) |
-| 🐙 GitHub | [Add your GitHub URL here](#) |
-| 📧 Email | [Add your email address here](#) |
-| 🌐 Portfolio | [Add your portfolio URL here](#) |
+| 💼 LinkedIn | https://www.linkedin.com/in/anurag-sengupta-6262ab427?utm_source=share_via&utm_content=profile&utm_medium=member_android
+| 🐙 GitHub | https://github.com/anuragbcabrainware-lab
+| 📧 Email | senguptaa163@gmail.com
+
 
 ---
 
